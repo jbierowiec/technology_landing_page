@@ -25,13 +25,13 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository:**
 
   ```bash
-    git clone https://github.com/your-username/technology-landing-page.git
+    git clone https://github.com/your-username/technology_landing_page.git
   ```
 
 2. **Navigate to the project directory:**
 
   ```bash
-    cd technology-landing-page.git
+    cd technology_landing_page.git
   ```
 
 3. **Open the `index.html` file in your web browser:**
