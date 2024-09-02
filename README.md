@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a landing page for a technology company, built using HTML5, CSS3, JavaScript, and Bootstrap 5. The landing page is designed to be fully responsive, offering an engaging user experience across all devices, from mobile phones to desktops.
+This project is a simple landing page for a technology company, built with HTML5, CSS3, JavaScript, and Bootstrap 5. The landing page is designed to be fully responsive, offering an engaging user experience across all devices, from mobile phones to desktops.
 
 ## Features
 
