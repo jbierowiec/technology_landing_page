@@ -18,6 +18,15 @@ This project is a simple landing page for a technology company, built with HTML5
 - **JavaScript (ES6+):** Provides interactivity and dynamic content updates.
 - **Bootstrap 5:** A CSS framework used to create a responsive layout and reusable components.
 
+## Project Structure
+
+```plaintext
+├── img/              # Directory for images
+├── index.html        # Main HTML file
+├── main.js           # JavaScript file for the application logic
+├── style.css         # CSS file for styling
+```
+
 ## Installation
 
 To get a local copy up and running, follow these simple steps:
